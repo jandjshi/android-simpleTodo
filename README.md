@@ -19,6 +19,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://i.imgur.com/58K1dDl.gifv)
+![Demo](http://i.imgur.com/58K1dDl.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
