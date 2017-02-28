@@ -1,7 +1,0 @@
-#Mon Feb 27 22:41:07 PST 2017
-base.0=/Users/jshi/AndroidStudioProjects/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d6de12bada06b58870bc3147132f2debd7b744ca
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/jshi/AndroidStudioProjects/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d5f85ca8a7714d22e7438d5532ecd37a77f5761/classes.dex
-base.1=/Users/jshi/AndroidStudioProjects/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d5f85ca8a7714d22e7438d5532ecd37a77f5761
-file.0=/Users/jshi/AndroidStudioProjects/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d6de12bada06b58870bc3147132f2debd7b744ca/classes.dex
